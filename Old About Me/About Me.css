@@ -1,0 +1,111 @@
+
+body {
+	font-family: "Helvetica" ;
+	font-size: 15pt;
+	background-color: #e6faff;
+	padding: 30px;
+	line-height: 1.6;
+}
+h1 {
+	font-size: 15pt;
+	color: #add8e6;
+	text-align: center;
+	padding: 15px 0 15px 0;
+}
+h1 span {
+	border: 4px dotted #add8e6;
+	padding: 10px;
+}
+p {
+	padding: 0;
+	margin: 0;
+	font-family: "Helvetica";
+}
+
+.section {
+	background-color: #fff;
+	padding: 15px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+
+#header {
+	background:radial-gradient(#ffffff, #add8e6);
+	font-size: 30pt;
+	font-family: "Helvetica";
+	font-style: italic;
+	text-align: center;
+	font-weight: bold;
+}
+
+/*Hobbies*/
+
+#hobbies img {
+  height: 200px;
+  width: 200px;
+}
+
+li {
+	display: inline-block;
+	font-weight: normal;
+	font-family: "Helvetica";
+	text-align: left;
+	margin: 0 5%;
+}
+
+ul {
+	text-align: center;
+}
+
+/*Album*/
+
+#album{
+	text-align: left;
+}
+
+#album img {
+	height: 20%;
+ 	width: 20%;
+ 	margin: 10px 10px;
+ 	font-size: 0;
+}
+
+#album p {
+	text-align: left;
+	margin: 10px 0;
+}
+
+/*Button*/
+
+.myBtn {
+    padding: 5px; 
+    font-size: 13px; 
+}
+
+.footer {
+	text-align: center;
+}
+
+/*navigation bar*/
+
+#nav {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+
+/* links*/
+#album a:link {
+    color: white;
+}
+
+#album a:visited {
+    color: white;
+}
+
+#album a:hover {
+    color: white;
+}
+
+#album a:active {
+    color: white;
+}
